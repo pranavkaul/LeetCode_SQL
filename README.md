@@ -12,6 +12,8 @@
 
 My solutions of LeetCode SQL challenges.This repository is mainly for my practice and future references, but anyone can use it for learning.
 
-Challenge | Solution |
-|:---------:|:--------:|
-[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](https://github.com/pranavkaul/LeetCode_Python/blob/main/Solutions/Two_Sum.py)|
+#Solutions
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Combine_Two_Tables.sql)|

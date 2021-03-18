@@ -11,7 +11,7 @@
 
 My solutions of LeetCode SQL challenges.This repository is mainly for my practice and future references, but anyone can use it for learning.
 
-#Solutions
+# Solutions
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|

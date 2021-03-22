@@ -20,3 +20,4 @@ My solutions of LeetCode SQL challenges. This repository is mainly for my practi
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Second_Highest_Salary.sql)|
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Nth-Highest_Salary.sql)|
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Rank_Scores.sql)|
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Consecutive_%20Numbers.sql)|

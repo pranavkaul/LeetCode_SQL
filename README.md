@@ -22,3 +22,4 @@ My solutions of LeetCode SQL challenges. This repository is mainly for my practi
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Rank_Scores.sql)|
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Consecutive_%20Numbers.sql)|
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Employees_Earning_More_Than_Their_Managers.sql)|
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Duplicate_Emails.sql)|

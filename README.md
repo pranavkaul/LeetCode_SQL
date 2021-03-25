@@ -24,4 +24,4 @@ My solutions of LeetCode SQL challenges. This repository is mainly for my practi
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Employees_Earning_More_Than_Their_Managers.sql)|
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Duplicate_Emails.sql)|
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Customers_Who_Never_Order.sql)|
-| 183 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Department_Highest_Salary.sql)|
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Department_Highest_Salary.sql)|

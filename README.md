@@ -25,3 +25,4 @@ My solutions of LeetCode SQL challenges. This repository is mainly for my practi
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Duplicate_Emails.sql)|
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Customers_Who_Never_Order.sql)|
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Department_Highest_Salary.sql)|
+| 184 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Department_Top_Three_Salaries.sql)|

@@ -28,3 +28,4 @@ My solutions of LeetCode SQL challenges. This repository is mainly for my practi
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Department_Top_Three_Salaries.sql)|
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Delete_Duplicate_Emails.sql)|
 | 197 | [Rising Temperature ](https://leetcode.com/problems/rising-temperature/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Rising_Temperature.sql)|
+| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Trips_and_Users.sql)|

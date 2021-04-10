@@ -29,3 +29,4 @@ My solutions of LeetCode SQL challenges. This repository is mainly for my practi
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Delete_Duplicate_Emails.sql)|
 | 197 | [Rising Temperature ](https://leetcode.com/problems/rising-temperature/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Rising_Temperature.sql)|
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Trips_and_Users.sql)|
+| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Game_Play_Analysis_I.sql)|

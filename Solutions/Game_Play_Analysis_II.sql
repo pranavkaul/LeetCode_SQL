@@ -1,4 +1,4 @@
-+--------------+---------+
+"+--------------+---------+
 | Column Name  | Type    |
 +--------------+---------+
 | player_id    | int     |
@@ -33,6 +33,6 @@ Result table:
 | 1         | 2         |
 | 2         | 3         |
 | 3         | 1         |
-+-----------+-----------+
++-----------+-----------+"
 
 SELECT player_id, device_id FROM Activity WHERE (player_id,event_date) IN (SELECT player_id, MIN(event_date) AS T FROM Activity GROUP BY player_id);

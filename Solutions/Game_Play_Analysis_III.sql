@@ -1,4 +1,4 @@
-Table: Activity
+'Table: Activity
 
 +--------------+---------+
 | Column Name  | Type    |
@@ -40,7 +40,7 @@ Result table:
 +-----------+------------+---------------------+
 For the player with id 1, 5 + 6 = 11 games played by 2016-05-02, and 5 + 6 + 1 = 12 games played by 2017-06-25.
 For the player with id 3, 0 + 5 = 5 games played by 2018-07-03.
-Note that for each player we only care about the days when the player logged in. 
+Note that for each player we only care about the days when the player logged in.'
 
 SELECT a1.player_id, a1.event_date, SUM(a2.games_played) AS games_played_so_far FROM Activity a1
 JOIN Activity a2 ON a1.event_date >= a2.event_date AND a2.player_id = a1.player_id  

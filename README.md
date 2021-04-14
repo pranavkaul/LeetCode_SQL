@@ -31,3 +31,4 @@ My solutions of LeetCode SQL challenges. This repository is mainly for my practi
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Trips_and_Users.sql)|
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Game_Play_Analysis_I.sql)|
 | 512 | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Game_Play_Analysis_II.sql)|
+| 534 | [Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Game_Play_Analysis_III.sql)|

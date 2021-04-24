@@ -34,6 +34,7 @@ Result table:
 +-----------+
 Only the player with id 1 logged back in after the first day he had logged in so the answer is 1/3 = 0.33'''
 
+
 SELECT ROUND(COUNT(b.player_id)/COUNT(DISTINCT a.player_id),2) as fraction FROM 
 (SELECT player_id,MIN(event_date) as event_date FROM Activity GROUP BY player_id) a 
 LEFT JOIN Activity b on a.player_id = b.player_id AND a.event_date + 1 = b.event_date;

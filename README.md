@@ -35,6 +35,7 @@ My solutions of LeetCode SQL challenges. This repository is mainly for my practi
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Game_Play_Analysis_IV.sql)|
 | 569 | [Median Employee Salary ](https://leetcode.com/problems/median-employee-salary/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Median_Employee_Salary.sql)|
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Managers_with_at_Least_5_Direct_Reports.sql)|
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Employee_Bonus.sql)|
 
 
 

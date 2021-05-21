@@ -36,6 +36,7 @@ My solutions of LeetCode SQL challenges. This repository is mainly for my practi
 | 569 | [Median Employee Salary ](https://leetcode.com/problems/median-employee-salary/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Median_Employee_Salary.sql)|
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Managers_with_at_Least_5_Direct_Reports.sql)|
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Employee_Bonus.sql)|
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Find_Customer_Referee.sql)|
 
 
 

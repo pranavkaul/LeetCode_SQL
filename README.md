@@ -38,3 +38,4 @@ My solutions of LeetCode SQL challenges. This repository is mainly for my practi
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Employee_Bonus.sql)|
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Find_Customer_Referee.sql)|
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Customer_Placing_the_Largest_Number_of_Orders.sql)|
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Big_Countries.sql)|

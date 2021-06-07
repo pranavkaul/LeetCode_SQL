@@ -25,3 +25,4 @@ Should output:
 | Math    |
 +---------+ */
 
+SELECT Class FROM (SELECT Class, COUNT(DISTINCT(Student)) as c FROM courses GROUP BY class) as temp WHERE c >= 5;

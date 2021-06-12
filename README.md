@@ -40,3 +40,4 @@ My solutions of LeetCode SQL challenges. This repository is mainly for my practi
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Customer_Placing_the_Largest_Number_of_Orders.sql)|
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Big_Countries.sql)|
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Classes_More_Than_5_Students.sql)|
+| 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/)|[Solution](https://github.com/pranavkaul/LeetCode_SQL/blob/main/Solutions/Friend_Requests_I:_Overal_%20Acceptance_Rate.sql)|
